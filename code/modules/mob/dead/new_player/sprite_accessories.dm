@@ -1588,6 +1588,10 @@
 	name = "Stockings (Purple)"
 	icon_state = "stockings_purple"
 
+/datum/sprite_accessory/socks/stockings_trans
+	name = "Stockings (Trans)"
+	icon_state = "stockings_trans"
+
 /datum/sprite_accessory/socks/stockings_yellow
 	name = "Stockings (Yellow)"
 	icon_state = "stockings_yellow"
